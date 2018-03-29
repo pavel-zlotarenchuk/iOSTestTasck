@@ -9,5 +9,7 @@
 #ifndef Header_h
 #define Header_h
 
+#import <AFNetworking/AFNetworking.h>
+#import <CocoaLumberjack/CocoaLumberjack.h>
 
 #endif /* Header_h */
